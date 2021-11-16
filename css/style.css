@@ -618,6 +618,10 @@ top: 250px;
      .seventhHeading{
          font-size:36px;
      } 
+     .Second-heading{
+         font-size:36px;   
+         line-height:70px 
+     }
 }
 
 
@@ -1010,7 +1014,9 @@ top: 250px;
     }                           
     .vectortwo{
         display:inline;                         
-        margin: auto;
+        
+        
+        
     }
     .Third-heading {
         font-size: 32px;
