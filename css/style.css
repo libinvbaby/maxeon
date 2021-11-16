@@ -905,7 +905,7 @@ top: 250px;
         
         border-radius: 0px;
         position: absolute;
-    left: 14.01%;
+    left: 19.01%;
     right: 80.52%;
     top: 45.34%;
     bottom: 75.55%;    
@@ -917,7 +917,8 @@ top: 250px;
     
     border-radius: 0px;
     position: absolute;
-    left: 44.87%;
+    top:-10px;
+    left: 48.87%;
     
     
     }
@@ -927,8 +928,8 @@ top: 250px;
     position: relative;
     border-radius: 0px;
     position: absolute;
-    left: 20.81%;
-    top: 170px;
+    left: 18.81%;
+    top: 140px;
         
     }
     .forthimage{
@@ -938,7 +939,7 @@ top: 250px;
         border-radius: 0px;
         position: absolute;
         left: 51.85%;
-        top: 170px;
+        top: 150px;
     }
     .fourtheader{
         margin-top:270px;
