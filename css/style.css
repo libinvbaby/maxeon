@@ -746,7 +746,7 @@ top: 250px;
         }
 }
 
-@media screen and (max-width: 668px) {
+@media (min-width: 481px) and (max-width: 767px)  {
     header {
         
         
