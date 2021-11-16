@@ -746,7 +746,7 @@ top: 250px;
         }
 }
 
-@media screen and (min-width:481px ) and (max-width: 668px) {
+@media screen and (max-width: 668px) {
     header {
         
         
@@ -780,6 +780,7 @@ top: 250px;
         display:none
     }
     
+    
     .fourtheader{
         margin-top:270px;
         font-size:50px;
@@ -808,7 +809,7 @@ top: 250px;
         padding-right: 15px;
     }
     .Gropuelispe {
-       margin-right: 10px;
+       margin-right: 11px;
         margin-top: -50px;
     }
     .firstimage{
@@ -892,7 +893,7 @@ top: 250px;
     
     }
     .Gropuelispe {
-        margin-right: 1px;
+        margin-left: -5px;
         margin-top: -50px;
     }
     .firstimage{
