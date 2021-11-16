@@ -518,8 +518,14 @@ color: #FFFFFF;
         width: 400px;
        
     }
+    .vectortwo{
+        display: none;
+    }
 }
 @media screen and (max-width: 1024px) {
+    .vectortwo{
+        display: none;
+    }
     header {
         
         
@@ -614,7 +620,8 @@ top: 250px;
      } 
 }
 
-@media screen and (max-width: 768px) {
+
+@media (min-width: 481px) and (max-width: 768px)  {
     .navbar-brand img{
         width: 80px;
     }
@@ -759,9 +766,9 @@ top: 250px;
             position: relative;
             top: -100px;
         }
-        
-
-@media (min-width: 481px) and (max-width: 767px)  {
+        .vectortwo{
+            display: none;
+        }
     header {
         
         
@@ -905,6 +912,7 @@ top: 250px;
     }
     .Second-heading{
         font-size: 20px;
+        line-height: 42px;
     }
     .section-right{
     font-size: 10px;
@@ -999,5 +1007,16 @@ top: 250px;
     }
     .vector{
         display: none;
+    }                           
+    .vectortwo{
+        display:inline;                         
+        margin: auto;
+    }
+    .Third-heading {
+        font-size: 32px;
+        text-align: center;
+        letter-spacing: -0.01em;
+        color: #444C58;
+        margin-top: -90px;
     }
 }
