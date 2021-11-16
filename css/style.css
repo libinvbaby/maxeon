@@ -319,7 +319,7 @@ color:#fff;
     justify-content: space-evenly;
 }
 
-.seventhcontainer{
+.seventhrow{
     background-color:#A2ABBA;
     height: 458px;
     margin-top: 130px;
@@ -509,7 +509,7 @@ color: #FFFFFF;
         margin-top: 200px;
       
     }  
-    .seventhcontainer{
+    .seventhrow{
             
         padding-right: 20px;
         height: auto;
@@ -519,7 +519,7 @@ color: #FFFFFF;
        
     }
 }
-/* @media screen and (max-width: 1024px) {
+@media screen and (max-width: 1024px) {
     header {
         
         background-image:url(/images/Bitmap\ \(1\).png);
@@ -591,7 +591,7 @@ top: 250px;
     width: 100%;
    
 }
-.seventhcontainer{
+.seventhrow{
             
     padding-right: 20px;
     height: auto;
@@ -605,7 +605,7 @@ top: 250px;
     margin-left: 3px;
 }
       
-} */
+}
 
 @media (min-width: 768px) and (max-width: 1024px) {
     .navbar-brand img{
@@ -732,9 +732,9 @@ top: 250px;
             top: -100px;
             width: 350px;
         }
-        .seventhcontainer{
+        .seventhrow{
             
-            padding-right: 0px;
+            padding-right: 20px;
             height: auto;
         }
         .newrow{
@@ -805,7 +805,7 @@ top: 250px;
         position: relative;
         top: -150px;
     }
-    .seventhcontainer{
+    .seventhrow{
         padding-right: 15px;
     }
     .Gropuelispe {
@@ -949,6 +949,7 @@ top: 250px;
     .rocket{
         position: relative;
         top: -100px;
+        left: 40px;
         width: 350px;
     }
     .newrow{
@@ -979,9 +980,6 @@ top: 250px;
         letter-spacing: 0em;
         
         color: #fff;
-    }
-    .seventhrow{
-        margin-right: 15px;
     }
     
 }
