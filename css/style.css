@@ -864,7 +864,7 @@ top: 250px;
     }
     
 }
-@media screen and (max-width: 480px) {
+@media (min-width: 320px) and (max-width: 480px) {
     header {
 
         background-image:url(/images/Bitmap\ \(1\).png);
