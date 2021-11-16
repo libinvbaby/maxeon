@@ -746,7 +746,7 @@ top: 250px;
         }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 668px) {
     header {
         
         
@@ -779,7 +779,10 @@ top: 250px;
     .vector{
         display:none
     }
-    
+    .section-right{
+        margin-top: -18px;
+        padding: 10px 0;
+    }
     
     .fourtheader{
         margin-top:270px;
