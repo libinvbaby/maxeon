@@ -612,15 +612,15 @@ top: 250px;
    
 }
 .Gropuelispe{
-    
+    margin-top:-50px;
     margin-left: 3px;
 }
      .seventhHeading{
          font-size:36px;
      } 
      .Second-heading{
-         font-size:36px;   
-         line-height:70px 
+         font-size:30px;   
+         line-height:50px 
      }
 }
 
@@ -776,7 +776,7 @@ top: 250px;
     header {
         
         
-        background-size: cover;
+        background-size: contain;;
     }
     header ul li{
         height: 19px;
