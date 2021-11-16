@@ -981,7 +981,7 @@ top: 250px;
     }
     
 }
-@media screen and (max-width: 375px) {
+/* @media screen and (max-width: 375px) {
     .firstimage{
         height: 131.9565124511719px;
         width: 110.49130249023438px;
@@ -1171,5 +1171,5 @@ top: 140px;
 .chatbox__support.chatbox--active {
     position: relative;
     left: 110px;
-}
+} */
 }
