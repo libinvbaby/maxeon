@@ -319,7 +319,7 @@ color:#fff;
     justify-content: space-evenly;
 }
 
-.seventhrow{
+.seventhcontainer{
     background-color:#A2ABBA;
     height: 458px;
     margin-top: 130px;
@@ -509,7 +509,7 @@ color: #FFFFFF;
         margin-top: 200px;
       
     }  
-    .seventhrow{
+    .seventhcontainer{
             
         padding-right: 20px;
         height: auto;
@@ -591,7 +591,7 @@ top: 250px;
     width: 100%;
    
 }
-.seventhrow{
+.seventhcontainer{
             
     padding-right: 20px;
     height: auto;
@@ -732,7 +732,11 @@ top: 250px;
             top: -100px;
             width: 350px;
         }
-        
+        .seventhcontainer{
+            
+            padding-right: 0px;
+            height: auto;
+        }
         .newrow{
             width: 100%;
            
@@ -801,7 +805,7 @@ top: 250px;
         position: relative;
         top: -150px;
     }
-    .seventhrow{
+    .seventhcontainer{
         padding-right: 15px;
     }
     .Gropuelispe {
@@ -975,6 +979,9 @@ top: 250px;
         letter-spacing: 0em;
         
         color: #fff;
+    }
+    .seventhrow{
+        margin-right: 15px;
     }
     
 }
