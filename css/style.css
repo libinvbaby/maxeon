@@ -1023,6 +1023,9 @@ top: 250px;
         text-align: center;
         letter-spacing: -0.01em;
         color: #444C58;
-        margin-top: -90px;
+        margin-top: 10px;
+    }
+    .image-fluid {
+        margin-top: 50px; 
     }
 }
