@@ -746,10 +746,10 @@ top: 250px;
         }
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 768px) {
     header {
         
-        background-image:url(/images/Bitmap\ \(1\).png);
+        
         background-size: cover;
     }
     header ul li{
@@ -808,8 +808,57 @@ top: 250px;
     .seventhrow{
         padding-right: 15px;
     }
+    .Gropuelispe {
+       margin-right: 11px;
+        margin-top: -50px;
+    }
+    .firstimage{
+        height: 131.9565124511719px;
+        width: 120.49130249023438px;
+        
+        border-radius: 0px;
+        position: absolute;
+    left: 25.01%;
+    right: 78.52%;
+    top: 0.34%;
+    bottom: 72.55%;    
     
-   
+    }
+    .secondimage{
+        height: 151.1585693359375px;
+    width: 137.7369689941406px;
+    
+    border-radius: 0px;
+    position: absolute;
+    left: 48.87%;
+    top:10px
+    
+    }
+    .thirdimage{
+        height: 115px;
+    width: 120px;
+    position: relative;
+    border-radius: 0px;
+    position: absolute;
+    left: 25.81%;
+    top: 150px;
+        
+    }
+    .forthimage{
+        height: 90px;
+        width: 130px;
+        position: relative;
+        border-radius: 0px;
+        position: absolute;
+        left: 48.85%;
+        
+        top: 170px;      
+    
+    }
+    .Third-heading{
+        padding-top:20px;
+        
+    }
     
 }
 @media screen and (max-width: 480px) {
