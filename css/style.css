@@ -938,11 +938,12 @@ top: 250px;
         border-radius: 0px;
         position: absolute;
         left: 42.85%;
-        
         top: 170px;
-     
-            
-    
+    }
+    .fourtheader{
+        margin-top:270px;
+        font-size:50px;
+        text-align: center;
     }
     .rocket{
         position: relative;
@@ -1171,5 +1172,5 @@ top: 140px;
 .chatbox__support.chatbox--active {
     position: relative;
     left: 110px;
-} */
-}
+} 
+}*/
