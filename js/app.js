@@ -1,8 +1,8 @@
 const chatButton = document.querySelector('.chatbox__button');
 const chatContent = document.querySelector('.chatbox__support');
 const icons = {
-    isClicked: '<img src="./images/Oval.png"  />',
-    isNotClicked: '<img src="./images/Oval.png" />'
+    isClicked: '<img src="./images/Ovalx.png"  />',
+    isNotClicked: '<img src="./images/Ovalm.png" />'
 }
 const chatbox = new InteractiveChatbox(chatButton, chatContent, icons);
 chatbox.display();
