@@ -1045,5 +1045,9 @@ top: 250px;
     .underheading{
         line-height: 20px;
     }
+    .subunderheading{
+        font-size:15px;
+        line-height :20px;
+    }
     
 }
