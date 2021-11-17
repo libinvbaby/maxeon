@@ -940,10 +940,9 @@ top: 250px;
         
         border-radius: 0px;
         position: absolute;
-    left: 16.01%;
-    right: 80.52%;
-    top: 45.34%;
-    bottom: 75.55%;    
+        left: 20.01%;
+        top: 45.34%;
+       
     
     }
     .secondimage{
@@ -963,7 +962,7 @@ top: 250px;
     position: relative;
     border-radius: 0px;
     position: absolute;
-    left: 13.81%;
+    left: 18.81%;
     top: 140px;
         
     }
@@ -984,12 +983,13 @@ top: 250px;
     .rocket{
         position: relative;
         top: -100px;
-        
+        left: 50px;
         width: 350px;
     }
     .newrow{
         position: relative;
         top:-50px;
+        left:20px;
         width: 100%;
         display:flex;
         justify-content: space-evenly;
@@ -999,7 +999,7 @@ top: 250px;
         text-align: center;
         text-align: center;
     position: relative;
-    left: 30px;
+    
     }
     .icons{
         position: relative;
