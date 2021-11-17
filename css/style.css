@@ -10,6 +10,10 @@ header {
     background: #FFFFFF;
 border-radius: 18px;
 }
+.nav-item :hover .nav-link{
+    background: #FFFFFF;
+border-radius: 18px;
+}
 
 header ul li{
     
@@ -936,7 +940,7 @@ top: 250px;
         
         border-radius: 0px;
         position: absolute;
-    left: 21.01%;
+    left: 16.01%;
     right: 80.52%;
     top: 45.34%;
     bottom: 75.55%;    
@@ -959,7 +963,7 @@ top: 250px;
     position: relative;
     border-radius: 0px;
     position: absolute;
-    left: 18.81%;
+    left: 13.81%;
     top: 140px;
         
     }
@@ -993,6 +997,9 @@ top: 250px;
     }
     .seventh-under{
         text-align: center;
+        text-align: center;
+    position: relative;
+    left: 30px;
     }
     .icons{
         position: relative;
@@ -1026,6 +1033,17 @@ top: 250px;
         text-align: center;
         letter-spacing: -0.01em;
         color: #444C58;
-        margin-top: -90px;
+        margin-top: -50px;
+    }
+    .image-fluid {
+         margin-top: 30px;
+    }
+    .sixth-heading {
+        font-family: 'Inter', sans-serif;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 26px;
+        line-height: 46px;
+        color: #444C58;
     }
 }
